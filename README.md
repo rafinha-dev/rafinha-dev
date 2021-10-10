@@ -5,6 +5,7 @@
 ![css](https://github.com/RafaelContact/RafaelContact/blob/master/css.png)
 ![javascript](https://github.com/RafaelContact/RafaelContact/blob/master/JavaScript-logo.png)
 ![node](https://github.com/RafaelContact/RafaelContact/blob/master/nodejs.png)
+![mysql](https://github.com/RafaelContact/RafaelContact/blob/master/mysql.png)
 ![vscode](https://github.com/RafaelContact/RafaelContact/blob/master/vscode.png)
 
 ![raspberry](https://github.com/RafaelContact/RafaelContact/blob/master/raspberry.png)
