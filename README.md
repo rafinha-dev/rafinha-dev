@@ -8,3 +8,4 @@
 ![javascript](https://github.com/RafaelContact/RafaelContact/blob/master/JavaScript-logo.png)
 ![node](https://github.com/RafaelContact/RafaelContact/blob/master/nodejs.png)
 ![git](https://github.com/RafaelContact/RafaelContact/blob/master/git_logo.png)
+![linux](https://github.com/RafaelContact/RafaelContact/blob/master/linux.png)
