@@ -10,3 +10,4 @@
 ![raspberry](https://github.com/RafaelContact/RafaelContact/blob/master/raspberry.png)
 ![git](https://github.com/RafaelContact/RafaelContact/blob/master/git_logo.png)
 ![linux](https://github.com/RafaelContact/RafaelContact/blob/master/linux.png)
+![docker](https://github.com/RafaelContact/RafaelContact/blob/master/docker.png)
