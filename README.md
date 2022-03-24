@@ -1,5 +1,3 @@
-### Olá 👋
-
 ![python](https://github.com/RafaelContact/RafaelContact/blob/master/python1.png) 
 ![html](https://github.com/RafaelContact/RafaelContact/blob/master/html.png)
 ![css](https://github.com/RafaelContact/RafaelContact/blob/master/css.png)
