@@ -1,9 +1,7 @@
 
-# hi a'm rafael 🤙 
+<h1 align="center"> hi a'm rafael 🤙 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RafaelContact&color=yellow" alt="Profile views" /> </p>
-
-- I'm a web developer, i'm focus in front end because i'm a bigginer. But i desire to became a full stack developer. I love backend and study security.
+- I'm a web developer, i'm focus in front end because i'm a bigginer. I desire to became a full stack developer, i love backend and study security.
 
 - 🕴️ I develop personal projects and i look for small business to help to engage new costumers. 
 
@@ -36,11 +34,12 @@
 <!-- teste trocar o =tech para achar o shild -->
 ## Analitcs 
 
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=RafaelContact&show_icons=true&theme=vision-friendly-dark" alt="rafael's stats"/>
-<img width="400em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelContact&layout=compact&theme=vision-friendly-dark" alt="rafael's most languages"/>
+| My Statistics                                                                                                                                                            | Main Languages                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=RafaelContact&show_icons=true&hide_border=true&count_private=true&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelContact&langs_count=10&count_private=true&hide_border=true&theme=dracula&layout=compact) |
 
 ## 🧑‍🚀 Social Media
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-rodrigues-1b2981129/)&nbsp;&nbsp;
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafinhadev/)&nbsp;&nbsp;
-[contactrodrigues21@gmail.com](mailto:contactrodrigues21@gmail.com)&nbsp;
+📫 [contactrodrigues21@gmail.com](mailto:contactrodrigues21@gmail.com)&nbsp;
