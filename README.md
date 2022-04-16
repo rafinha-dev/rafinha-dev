@@ -34,6 +34,10 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Raspberry](https://img.shields.io/badge/-RaspberryPi-05122A?style=flat&logo=RaspberryPi)&nbsp;
 <!-- teste trocar o =tech para achar o shild -->
+## Analitcs 
+
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=RafaelContact&show_icons=true&theme=vision-friendly-dark" alt="rafael's stats"/>
+<img width="400em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelContact&layout=compact&theme=vision-friendly-dark" alt="rafael's most languages"/>
 
 ## 🧑‍🚀 Social Media
 
