@@ -35,4 +35,8 @@
 ![Raspberry](https://img.shields.io/badge/-RaspberryPi-05122A?style=flat&logo=RaspberryPi)&nbsp;
 <!-- teste trocar o =tech para achar o shild -->
 
+## 🧑‍🚀 Social Media
 
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-rodrigues-1b2981129/)&nbsp;&nbsp;
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafinhadev/)&nbsp;&nbsp;
+[contactrodrigues21@gmail.com](mailto:contactrodrigues21@gmail.com)&nbsp;
