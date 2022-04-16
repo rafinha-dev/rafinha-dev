@@ -1,5 +1,5 @@
 
-<h1 align="center"> hi a'm rafael 🤙 </h1>
+<h1 align="center"> hi a'm rafael 🤙 </h1>  
 
 - I'm a web developer, i'm focus in front end because i'm a bigginer. I desire to became a full stack developer, i love backend and study security.
 
@@ -33,6 +33,8 @@
 ![Raspberry](https://img.shields.io/badge/-RaspberryPi-05122A?style=flat&logo=RaspberryPi)&nbsp;
 <!-- teste trocar o =tech para achar o shild -->
 ## Analitcs 
+
+<img src="https://komarev.com/ghpvc/?username=RafaelContact&color=yellow" alt="Profile views" />
 
 | My Statistics                                                                                                                                                            | Main Languages                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
