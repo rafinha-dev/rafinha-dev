@@ -5,18 +5,16 @@
 
 - 🕴️ I develop personal projects and i look for small business to help to engage new costumers. 
 
-- There are 4 types of personal projects what i make.
+- There are 5 types of personal projects what i have interess to make.
 
   1. 🦭  ANIMAL CAUSE i'm vegan, and help animals and the cause are important to me
- 
-  2. 🤖  PRATICAL just develop to learn and don't forguet
- 
-  3. 🚴  IMPLEMENT MY ROUTINE 🖥️ 🏘️
- 
-  4. ☠️ SECURITY TEST ctf , reverse engineering  and others.
+  2.  WORK , use my knowlage to make some money of course
+  3. 🤖  PRATICAL just develop to learn and don't forguet
+  4. 🚴  IMPLEMENT MY ROUTINE 🖥️ 🏘️
+  5. ☠️ SECURITY TEST ctf , reverse engineering  and others.
 
 
-- I'm starting to share my knowloge in instagram , linkedin and youtube to help people.
+- I'm starting to share my knowloge in instagram , linkedin and youtube to help people and make my personal branding.
 
 🛠 &nbsp;Tech Stack what i'm focus
 
