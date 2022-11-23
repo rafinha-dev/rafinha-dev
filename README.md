@@ -29,11 +29,11 @@
 <!-- teste trocar o =tech para achar o shild -->
 ## Analitcs 
 
-<img src="https://komarev.com/ghpvc/?username=RafaelContact&color=yellow" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=rafinha-dev&color=yellow" alt="Profile views" />
 
 | My Statistics                                                                                                                                                            | Main Languages                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=RafaelContact&show_icons=true&hide_border=true&count_private=true&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelContact&langs_count=10&count_private=true&hide_border=true&theme=dracula&layout=compact) |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=rafinha-dev&show_icons=true&hide_border=true&count_private=true&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafinha-dev&langs_count=10&count_private=true&hide_border=true&theme=dracula&layout=compact) |
 
 ## 🧑‍🚀 Social Media
 
