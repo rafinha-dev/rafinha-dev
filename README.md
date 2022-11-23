@@ -1,6 +1,3 @@
-
-<h1 align="center"> hi I am rafael 🤙 </h1>  
-
 - I'm a web developer, i'm focus in front end because i'm a bigginer. I desire to became a full stack developer, i love backend and study security.
 
 - 🕴️ I develop personal projects and i look for small business to help to engage new costumers. 
