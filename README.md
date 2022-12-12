@@ -1,42 +1,40 @@
-- I'm a web developer, i'm focus in front end because i'm a bigginer. I desire to became a full stack developer, i love backend and study security.
+<h1 align="center">Olá  <img src="https://media3.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif?cid=ecf05e47paay6b31bbe5z0nvmk1ix8xds7p6l59rhhy7x9l6&rid=giphy.gif&ct=g" width="40px"/>, eu sou Rafael </h1>
 
-- 🕴️ I develop personal projects and i look for small business to help to engage new costumers. 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fd428d&center=true&vCenter=true&width=1000&lines=Dev+front+end+em+forma%C3%A7%C3%A3o;adoro+um+css+gourmet)](https://git.io/typing-svg)
 
-- There are 5 types of personal projects what i have interess to make.
+<img align="left" src="https://github.com/rafinha-dev/readme.mes/blob/master/download20221200205038.png" width="320px">
+<p>Estudo front-end e faço pequenos projetos web, tenho vontade de empreende com tecnologia e estou em busca da minha vaga como dev front-end junior. Sou aluno do dev quest, prog-br e constantemente estou presente fazendo lives no discord. Criei meu blog a fim de disseminar conhecimento em tecnologia resolver problemas maiores a medida que melhoro meus conhecimentos, algumas postagens publico na minha newsletter do linkedin que criei para buscar pessoas cheias de ideias assim como eu. 
+Contrubuo com a comunidade de software livre como a debian em mg, adoro mecher em sistemas operacionais e testar. Eu sou muito empolgado e cheio de criatividade, então as vezes preciso me puxar para o chao com tantas ideias rs. Eu fui ator e músico e agora estou na area de TI.
+Meu primeiro objetivo é conseguir minha vaga de front, me aprimorar e me tornar full stack e com conhecimento de back-end investir em conhecer mais sobre ciber security.
+Com meu conhecimento de front-end planejo criar templates para vender, e comercializar infoprodutos na internet e web aplicações que geram renda passiva.</p>
 
-  1. 🦭  ANIMAL CAUSE i'm vegan, and help animals and the cause are important to me
-  2.  WORK , use my knowlage to make some money of course
-  3. 🤖  PRATICAL just develop to learn and don't forguet
-  4. 🚴  IMPLEMENT MY ROUTINE 🖥️ 🏘️
-  5. ☠️ SECURITY TEST ctf , reverse engineering  and others.
+**********
+<div align="left">
+🌱 Ａｔｕａｌｍｅｎｔｅ, ｅｓｔｏｕ ａｐｒｅｎｄｅｎｄｏ ｉｎｔｅｇｒａçãｏ ｄｅ ＡＰＩ ｖｏｕ ｉｎｉｃｉａｒ<strong> Ｊｅｓｔ</strong> ｅ <strong> ｒｅａｃｔ<strong><br>
+💬 Posso responder perguntas sobre <strong>JavaScript, HTML, CSS , Java-script </strong> <br>mas sinta-se a vontade para perguntar sobre musica e teatro<br>
+</div>
+<!--  https://psfonttk.com/letras-diferentes-para-nick/-->
 
+***************	
 
-- I'm starting to share my knowloge in instagram , linkedin and youtube to help people and make my personal branding.
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafinha-dev&show_icons=true&hide_border=true&count_private=true&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinha-dev&langs_count=10&count_private=true&hide_border=true&theme=dracula&layout=compact"/>
+<div>	
+	
+	
+<h3 align="center">Linguagens e Ferramentas:</h3>
+<p align="center"> <img height="40" width="40" src="https://cdn.simpleicons.org/html5/808080"/> <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/808080"/> <img height="40" width="40" src="https://cdn.simpleicons.org/css3/808080"/> <img height="40" width="40" src="https://cdn.simpleicons.org/jest/808080"/> <img height="40" width="40" src="https://cdn.simpleicons.org/react/808080"/></p></div>
+</div>
 
-🛠 &nbsp;Tech Stack what i'm focus
+*******************
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Raspberry](https://img.shields.io/badge/-RaspberryPi-05122A?style=flat&logo=RaspberryPi)&nbsp;
-<!-- teste trocar o =tech para achar o shild -->
-## Analitcs 
-
-<img src="https://komarev.com/ghpvc/?username=rafinha-dev&color=yellow" alt="Profile views" />
-
-| My Statistics                                                                                                                                                            | Main Languages                                                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=rafinha-dev&show_icons=true&hide_border=true&count_private=true&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafinha-dev&langs_count=10&count_private=true&hide_border=true&theme=dracula&layout=compact) |
-
-## 🧑‍🚀 Social Media
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-rodrigues-1b2981129/)&nbsp;&nbsp;
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafinhadev/)&nbsp;&nbsp;
-📫 [contactrodrigues21@gmail.com](mailto:contactrodrigues21@gmail.com)&nbsp;
+<h3 align="center">Entre em contato:</h3>
+<p align="center"><img src="https://custom-icon-badges.demolab.com/badge/contactrodrigues21@gmail.com-808080?style=for-the-badge&logo=mention&logoColor=white"> 
+<a href="https://www.linkedin.com/in/rafinhadev/" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-808080?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/rafinha_dev/" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-Instagram-808080?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://codepen.io/rafinha-dev" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-CodePen-808080?style=for-the-badge&logo=CodePen&logoColor=white"></a>
+<a href="https://dev.to/rafinhadev" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-Blog_dev.to-808080?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+<a href="https://hashnode.com/@rafinhadev" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-Blog_Hashnode-808080?style=for-the-badge&logo=hashnode&logoColor=white"></a>
+	
+</p>
