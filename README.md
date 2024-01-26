@@ -2,12 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fd428d&center=true&vCenter=true&width=1000&lines=Dev+front+end+em+forma%C3%A7%C3%A3o;adoro+um+css+gourmet)](https://git.io/typing-svg)
 
-<img align="left" margin="20px" src="https://github.com/rafinha-dev/GIFs/blob/master/GIFs/nse-7015582451411697295-4c3ee696-cb72-4bc4-b75f-49786f1e17a9.gif" width="320px">
+ 
+<img  src="https://github.com/rafinha-dev/GIFs/blob/master/GIFs/nse-7015582451411697295-4c3ee696-cb72-4bc4-b75f-49786f1e17a9.gif" width="300px" align="right" >
+
+**********
+
 <p>Desenvolvedor front-end, faço pequenos projetos web, tenho vontade de empreender com tecnologia e estou em busca da minha vaga como dev front-end. Sou aluno do dev quest, prog-br participo de comunidades de programadores e de software livre. 
 Criei meu blog a fim de disseminar conhecimento em tecnologia resolver problemas maiores a medida que melhoro meus conhecimentos, algumas postagens publico na minha newsletter do linkedin que criei para buscar pessoas cheias de ideias assim como eu. 
 Eu sou muito empolgado e criativo, então as vezes preciso me puxar para o chao.
 Meu primeiro objetivo é conseguir minha vaga de front, me aprimorar e me tornar full stack e com conhecimento de back-end investir em conhecer mais sobre ciber security.
 Com meu conhecimento de front-end planejo criar templates para vender, e comercializar infoprodutos na internet e web aplicações que geram renda passiva.</p>
+
 
 **********
 <div align="left">
