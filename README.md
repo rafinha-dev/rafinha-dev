@@ -9,8 +9,8 @@
 
 <p>Desenvolvedor front-end, faço pequenos projetos web, tenho vontade de empreender com tecnologia e busco uma vaga na área. 
 Sou aluno do dev quest, prog-br e um eterno gafanhoto. Participo de comunidades de programadores, de software livre e inteligências artificiais. São em sua maioria no discord, tais como a comunidade aberta da Rocket 🚀 seat, distribuiçoes Linux sendo bodhi Linux e o debian no telegram. Stable diffusion para gerar imagens, entre outras.<br>
-Criei meu blog a fim de disseminar conhecimento em tecnologia, resolver problemas maiores a medida que melhoro meus conhecimentos. Algumas postagens publico na minha newsletter do linkedin que criei para buscar pessoas cheias de ideias assim como eu. <br>
 Sou muito empolgado e criativo, então as vezes preciso me puxar para o chao e estimular pensamentos pragmáticos. <br>
+Nessa jornada criei meu blog a fim de disseminar conhecimento em tecnologia,mostrando o crescimento dos meus conhecimento, resolvendo problemas maiores, documentando publicamente coisas que podem ajudar. Algumas postagens publico na minha newsletter do linkedin que criei para buscar pessoas cheias de ideias assim como eu. <br>
 Desejo me aprimorar, me tornar full stack e com conhecimento de back-end investir em conhecer mais sobre ciber security. <br>
 Com meu conhecimento de front-end planejo criar templates para vender, modificar alguns existentes, comercializar infoprodutos na internet e monetizar web aplicações.</p>
 
